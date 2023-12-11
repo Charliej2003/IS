@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #555555;
+    background-color: yellow;}
+li{
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;}
+a{color: maroon;
+text-decoration: none;}
+a:hover{
+    text-decoration: underline;
+    /* font-weight: bold;
+    font-size: 18px; */
+}
+a:visited{
+ color: blue;
+}
+.resumelistheading {
+    font-weight: bold;
+    font-style: normal;}
+.underline{text-decoration: underline;}
+.bold{font-weight: bold;}
+.justify{text-align: justify;}
+.homebg{
+    background-image: url('../images/jungle_background.jpg');
+    background-position: top right;
+    background-size: cover;}
+    .box1{
+        border-left: 1px;
+        border-style: solid;
+        border-color: red;
+    }
+    .box2{
+        padding: 5px;
+    }
+    .box3{
+        margin: 50px;
+    }
